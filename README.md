@@ -21,5 +21,14 @@
 
 ## 系统展示
 
-主机管理
-![](./images/主机管理.png)
+**主机管理**
+![](https://raw.githubusercontent.com/wuchengjiang/mycmdb/main/images/%20%E4%B8%BB%E6%9C%BA%E7%AE%A1%E7%90%86.png)
+
+**资产管理**
+![](https://raw.githubusercontent.com/wuchengjiang/mycmdb/main/images/zichanguanli.png)
+
+**服务树**
+![](https://raw.githubusercontent.com/wuchengjiang/mycmdb/main/images/servicetree.png)
+
+**智能DNS**
+![](https://raw.githubusercontent.com/wuchengjiang/mycmdb/main/images/%E6%99%BA%E8%83%BDdns%E7%B3%BB%E7%BB%9F.png)
